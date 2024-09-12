@@ -1,4 +1,3 @@
-import streamlit as st
 from django.apps import AppConfig
 
 
